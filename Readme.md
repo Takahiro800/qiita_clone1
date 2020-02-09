@@ -26,3 +26,4 @@ Rspecによる、model,APIのテストを実装しております。
 
 herokuへのデプロイも行いました。
 https://qiita-qlone-stg.herokuapp.com/
+
