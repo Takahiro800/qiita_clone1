@@ -1,4 +1,4 @@
-# Qiita_clone1
+# [Qiita_clone1](https://qiita-qlone-stg.herokuapp.com/)　
 ## Over View
 [take off rails](https://freelance.cat-algorithm.com/) の課題で学習した、Qiitaのクローンアプリです。
 - Ruby version 2.6.2
