@@ -23,3 +23,6 @@ Rspecによる、model,APIのテストを実装しております。
 
 
 ログイン、ログアウト機能の実装には`devise-token-auth`を導入し、公式ドキュメント等を参考にして、実装しました。
+
+herokuへのデプロイも行いました。
+https://qiita-qlone-stg.herokuapp.com/
