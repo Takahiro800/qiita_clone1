@@ -3,6 +3,8 @@
 [take off rails](https://freelance.cat-algorithm.com/) の課題で学習した、Qiitaのクローンアプリです。
 - Ruby version 2.6.2
 - vue version 2.6.10
+- Docker
+- Rspec
 
 ## Description
 Qiitaの機能の一部を真似て作成しました。
